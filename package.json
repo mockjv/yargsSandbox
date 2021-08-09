@@ -1,0 +1,17 @@
+{
+  "name": "yargssandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node "
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/yargs": "^15.0.14",
+    "typescript": "^3.9.10",
+    "yargs": "^15.4.1"
+  }
+}
